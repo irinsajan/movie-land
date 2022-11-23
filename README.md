@@ -10,3 +10,4 @@ cd movie-land
 npm install
 npm start
 ```
+#### View the site on http://localhost:3000/. In the search bar, type movie name. For example, try entering "Spiderman" and the list of spiderman movies will appear.
